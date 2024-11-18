@@ -1,4 +1,4 @@
-# water-quality-and-Infrastructure-analysis-in-Maji-Ndogo
+# water-quality-and-Infrastructure-analysis-in-Maji-Ndogo (visualisation)
 This is my first project i done when i'm doing my data analyst certfication. it's my first experience about this field, i hope you're going to appreciate it. this my visualisation project, enjoyed it.
 This is visualisation talk about water improvement in Maji Ndogo. We can see that we have our dashboard who shows differents steps for improve water quality service.
 This project focuses on analysing water quality and infrastructure in Maji Ndogo. In this project we're just going to see the visualisation that i make with power bi.
